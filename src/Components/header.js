@@ -4,12 +4,12 @@ import React from 'react'
 import { Link } from 'react-router-dom'
  const Header = () => {
   return(
-    <div>
+    <header>
       <Link to="/">Go Back</Link>
-      <span>Africa Bibel</span>
+      <h2> Country Metrics App</h2>
       <BiMicrophone/>
       <AiTwotoneSetting/>
-    </div>
+    </header>
   )
 }
 export default Header

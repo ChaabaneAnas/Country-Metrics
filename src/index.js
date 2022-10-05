@@ -5,6 +5,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import { Provider } from "react-redux"
 import App from'./App'
 import store from './Redux/storeConfig';
+import './App.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
 <Router>

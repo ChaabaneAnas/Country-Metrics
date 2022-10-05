@@ -5,7 +5,8 @@ const Details = () => {
 const data = useSelector(state => state.Details)
 console.log(data);
 return(
-<span>working
+<span>
+  
 </span>
 )
 
