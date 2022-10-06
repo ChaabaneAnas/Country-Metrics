@@ -3,45 +3,45 @@ import { v4 as uuidv4 } from 'uuid';
 const continentsData = [
   {
     id: uuidv4(),
-    name: 'africa',
-    map: '',
+    name: 'Africa',
     image: '/images/africa.svg',
+    counNum: 54,
   },
   {
     id: uuidv4(),
     name: 'Asia',
-    map: '',
     image: './images/asia.svg',
+    counNum: 48,
   },
   {
     id: uuidv4(),
     name: 'Europe',
-    map: '',
+    counNum: 44,
     image: '/images/europe.svg',
   },
   {
     id: uuidv4(),
     name: 'Oceania',
-    map: '',
+    counNum: 14,
     image: '/images/oceania.svg',
   },
   {
     id: uuidv4(),
     name: 'North America',
-    map: '',
+    counNum: 23,
     image: '/images/north-america.svg',
   },
   {
     id: uuidv4(),
     name: 'South America',
-    map: '',
+    counNum: 12,
     image: '/images/south-america.svg',
   },
   {
     id: uuidv4(),
     name: 'Antarctica',
-    map: '',
-    image: '/images/Antarctica.svg',
+    counNum: 0,
+    image: '/images/antarctica.svg',
   },
 ];
 
