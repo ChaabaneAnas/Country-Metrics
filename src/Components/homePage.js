@@ -10,7 +10,7 @@ import {BsFillArrowRightCircleFill} from 'react-icons/bs'
 
 const Home = () => {
  const  dispatch = useDispatch()
-
+ 
 return(
   
   <>

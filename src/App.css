@@ -86,6 +86,7 @@ img{
   background: #4268af;
 }
 
+
 svg {
   color: white;
 }
@@ -114,7 +115,18 @@ img {
     text-align: center;
 }
 
+ul {
+
+  width:71%;
+}
+
+
+.card-2 li:nth-child(even) {
+   background:  #306ddf; 
+  }
+
 .card-2 li {
+  background: #4e7acc; 
   width: 100%;
   display: flex;
  justify-content:  space-between;

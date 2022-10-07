@@ -17,7 +17,6 @@ export const  FetchCountires = createAsyncThunk(FETCH, async (name) => {
 
 export default function Details(state = insitalState, action){
   const {type, payload} = action;
-  console.log(action);
   switch(type){
     case "DETAILSPAGE/FETCH/fulfilled":
       return payload
