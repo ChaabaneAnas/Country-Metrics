@@ -1,14 +1,14 @@
 html {
   box-sizing: border-box;
-  background-color:  #4e7acc;
+  background-color: #4e7acc;
   font-size: 100%;
   color: #fff;
 }
 
-*{
+* {
   border: none;
   box-sizing: border-box;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif,sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   list-style: none;
   margin: 0;
   outline: none;
@@ -17,31 +17,28 @@ html {
   text-transform: capitalize;
 }
 
-ul {
-  margin: 0;
-}
-
 header {
   padding: 3%;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
+
 h2 {
   margin: 0 10%;
 }
 
 h3 {
-  background-color:#2e4f8d ;
+  background-color: #2e4f8d;
   text-align: center;
+}
+
+img {
+  width: 72%;
 }
 
 .intro img {
   width: 50%;
-}
-
-img{
-  width:25%;
 }
 
 .intro {
@@ -81,20 +78,15 @@ img{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.cards-container>.card:not(:nth-child(2), :nth-child(6)):nth-child(even),
-.cards-container>.card:not(:nth-child(3), :nth-child(7)):nth-child(odd) {
+.cards-container > .card:not(:nth-child(2), :nth-child(6)):nth-child(even),
+.cards-container > .card:not(:nth-child(3), :nth-child(7)):nth-child(odd) {
   background: #4268af;
 }
-
 
 svg {
   color: white;
 }
 
-img {
-  width: 72%;
-
-}
 .card-container {
   padding: 20px 8%;
   display: flex;
@@ -103,31 +95,29 @@ img {
 }
 
 .card-2 {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    border-radius: 1rem;
-    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 50%);
-    cursor: pointer;
-    padding: 2rem 1rem;
-    text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 50%);
+  cursor: pointer;
+  padding: 2rem 1rem;
+  text-align: center;
 }
 
 ul {
-
-  width:71%;
+  width: 71%;
 }
 
-
-.card-2 li:nth-child(even) {
-   background:  #306ddf; 
-  }
-
 .card-2 li {
-  background: #4e7acc; 
+  background: #4e7acc;
   width: 100%;
   display: flex;
- justify-content:  space-between;
+  justify-content: space-between;
+}
+
+.card-2 li:nth-child(even) {
+  background: #306ddf;
 }

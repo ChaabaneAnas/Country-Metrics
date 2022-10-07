@@ -45,4 +45,4 @@ const continentsData = [
   },
 ];
 
-export default continentsData
+export default continentsData;
