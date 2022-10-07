@@ -27,7 +27,11 @@ const Home = () => {
               {continent.name}
               {' '}
               <br />
-              <span>{continent.counNum}</span>
+              <span>
+                {continent.counNum}
+                {' '}
+                countries
+              </span>
             </li>
           </Link>
         ))}
