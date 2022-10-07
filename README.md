@@ -5,9 +5,10 @@
 A web app that provides multiple information's about every country in the world, and could be filtered by Continent
 
 
-## Overview
+## Overview 
+![image](https://user-images.githubusercontent.com/99597333/194639335-13c5a87a-9777-4f48-aca4-0c93933dbe83.png)
 
-
+![image](https://user-images.githubusercontent.com/99597333/194639290-1d98008b-1a22-455e-ad1e-6adfe7223452.png)
 
 ## Built With
 
@@ -18,6 +19,9 @@ A web app that provides multiple information's about every country in the world,
 ## Live Demo (if available)
 
 [Live Demo Link](https://countrymertics.netlify.app/)
+
+## Loom Video
+[Demo Video](https://www.loom.com/share/0ae15519d3f848739ed6efd7fc1f8a7e)
 
 
 ## Getting Started
