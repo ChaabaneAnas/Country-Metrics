@@ -5,7 +5,6 @@ import continentsData from "../Data/Data";
 const Details = () => {
   const { id } = useParams()
 const data = useSelector(state => state.Details)
-console.log(data);
 return(
   <>
     {continentsData.filter((continent) => (

@@ -5,7 +5,6 @@ import Details from "./Components/details"
 
 
 const App = () => {
-
   return (
     <>
     <Header />
