@@ -22,6 +22,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: #2e4f8d;
 }
 
 h2 {
