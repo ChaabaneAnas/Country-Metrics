@@ -2,7 +2,7 @@
 
 # Country Metrics
 
-A simple interactive web app, that allow users to add remove ,edit books and update their progress  
+A web app that provides multiple information's about every country in the world, and could be filtered by Continent
 
 
 ## Overview
