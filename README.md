@@ -17,7 +17,7 @@ A web app that provides multiple information's about every country in the world,
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://app.netlify.com/sites/countrymertics/overview)
+[Live Demo Link](https://countrymertics.netlify.app/)
 
 
 ## Getting Started
