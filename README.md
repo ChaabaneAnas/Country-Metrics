@@ -73,9 +73,9 @@ npm run deploy
 
 👤 **Chaabane Anas**
 
-- GitHub: [@githubhandle](https://github.com/ChaabaneAnas)
-- Twitter: [@twitterhandle](https://twitter.com/AnasChabaane)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anas-chabaane-a0baa21a2/)
+- GitHub: [@ChaabaneAnas](https://github.com/ChaabaneAnas)
+- Twitter: [@AnasChabaane](https://twitter.com/AnasChabaane)
+- LinkedIn: [@chaabaneanas](https://www.linkedin.com/in/chaabaneanas/)
 
 ## 🤝 Contributing
 
