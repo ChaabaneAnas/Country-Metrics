@@ -2,7 +2,7 @@
 
 # Country Metrics
 
-A web app that provides multiple information's about every country in the world, and could be filtered by Continent
+A Simple mobile web app that provides multiple information's about every country in the world, and could be filtered by Continent
 
 
 ## Overview 
